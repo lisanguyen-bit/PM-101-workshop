@@ -6,8 +6,8 @@
 
 ## Topics
 - user data (interviews, Google Analytics, etc)
-- product road maps
+- product [roadmaps](https://github.com/lisanguyen-bit/PM-101-workshop/projects) vs [milestones](https://github.com/lisanguyen-bit/PM-101-workshop/milestones?with_issues=no)
 - user stories
 - wireframing
 - translating user stories into technical actionable tasks
-- planning sprint milestones
+- planning sprints
